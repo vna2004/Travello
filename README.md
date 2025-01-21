@@ -1,8 +1,8 @@
-# Travello
+# ✈️Travello
 
 Welcome to **Travello**, a travel booking and management web application that helps users explore destinations, book accommodations, and plan their trips effortlessly.
 
-## Table of Contents
+## 🔗Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
@@ -14,7 +14,7 @@ Welcome to **Travello**, a travel booking and management web application that he
 
 ---
 
-## Features
+## ⭐Features
 - User authentication and authorization (JWT-based).
 - Explore travel destinations and accommodations.
 - Book trips and manage bookings.
@@ -24,7 +24,7 @@ Welcome to **Travello**, a travel booking and management web application that he
 
 ---
 
-## Technologies Used
+## 💻Technologies Used
 Travello is built using the MERN stack:
 
 - **Frontend**: React.js, Redux, TailwindCSS/Bootstrap
@@ -38,21 +38,21 @@ Travello is built using the MERN stack:
 
 ---
 
-## Installation
+## 📍Installation
 
 To get started with Travello, follow these steps:
 
-### Prerequisites
+### 🔎Prerequisites
 - Node.js and npm installed
 - MongoDB instance running
 
-### Clone the Repository
+### 🤖Clone the Repository
 ```bash
 git clone https://github.com/yourusername/travello.git
 cd travello
 ```
 
-### Install Dependencies
+### 📍Install Dependencies
 #### Backend
 ```bash
 cd backend
@@ -89,14 +89,14 @@ npm start
 
 ---
 
-## Usage
+## 🔮Usage
 1. Open your browser and navigate to `http://localhost:3000`.
 2. Sign up or log in to your account.
 3. Explore destinations, make bookings, and enjoy!
 
 ---
 
-# Project Demo
+# 🪄Project Demo
 
 
 
@@ -108,7 +108,7 @@ Here is a video walkthrough of the project flow:
 
 ---
 
-## Contributing
+## 🤝Contributing
 We welcome contributions! Please follow these steps:
 1. Fork the repository.
 2. Create a new branch: `git checkout -b feature-name`.
