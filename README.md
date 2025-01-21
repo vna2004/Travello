@@ -118,5 +118,3 @@ We welcome contributions! Please follow these steps:
 5. Open a pull request.
 
 ---
-
-Happy coding! 🚀
