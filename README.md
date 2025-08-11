@@ -100,11 +100,9 @@ npm start
 
 
 
-
 ![Image](https://github.com/user-attachments/assets/3a71d599-bb15-4a4d-88e9-6213d59f66e0)
 
-Here is a video walkthrough of the project flow:  
-[![Project Demo](https://github.com/user-attachments/assets/3a71d599-bb15-4a4d-88e9-6213d59f66e0)](https://drive.google.com/file/d/1WYjCjMqRREbPm7TXLvtgQvoJlELL33XH/view?usp=sharing)
+Here is a video walkthrough of the project flow: [![Project Demo](![Image](https://github.com/user-attachments/assets/3a71d599-bb15-4a4d-88e9-6213d59f66e0))](https://drive.google.com/file/d/1WYjCjMqRREbPm7TXLvtgQvoJlELL33XH/view?usp=sharing)
 
 
 
